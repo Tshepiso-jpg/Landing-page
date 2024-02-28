@@ -1,10 +1,28 @@
-
 h1{
-    color: aliceblue;
+    color:#d68abf;
     font-size: 80px;
     
 }
 
-h2{
-    color: aliceblue;
+.last-name{
+    color: #AA7FBA;
+}
+
+.more-info{
+
+    background-color: white;
+
+  max-width: 1200px;
+  margin: 15px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 100px;
+  padding: 100px;
+}
+
+
+.image{
+    position: relative;
+
+left:800px;
+bottom:500px;
 }
