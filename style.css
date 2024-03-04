@@ -26,3 +26,16 @@ h1{
 left:800px;
 bottom:500px;
 }
+
+.button-link{
+    position:relative;
+    top: 20px;
+    color:white;
+    background-color: #AA7FBA;
+    margin:10px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+
+
+
